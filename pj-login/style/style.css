@@ -30,12 +30,14 @@ h1 {
     padding: 30px;
     border-radius: 10px;
     box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.356);
-    background-image: linear-gradient(90deg, #4C4D4C, #86525273);
+    background-image: linear-gradient(90deg, #7c7b7b, #ffffff73);
 }
 
 .cadastro > h1{
     margin-bottom: 30px;
 }
+
+
 
 ::-webkit-input-placeholder {
     color: rgba(0, 0, 0, 0.658);
